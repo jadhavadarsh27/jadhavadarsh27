@@ -14,9 +14,9 @@ Full Stack Software Developer | Java • Spring Boot • React
 ## 🚀 About Me
 
 - 🎓 MCA Student (2025)
-- 💻 Full Stack Developer specializing in **Java & Spring Boot**
-- 🔧 Experienced in building **RESTful APIs and scalable web applications**
-- ⚡ Strong understanding of backend logic, databases, and frontend integration
+- 💻 Full Stack Developer focused on **Java & Spring Boot**
+- 🔧 Experience building **RESTful APIs and scalable web applications**
+- ⚡ Strong backend logic with clean frontend integration
 - 🌱 Currently improving **Spring Boot performance & React UI patterns**
 
 ---
@@ -41,7 +41,7 @@ Web application for conducting online exams with admin and student modules.
 **Tech:** Java, JSP, MySQL, HTML, CSS
 
 ### 🌾 Online Agriculture System
-Digital platform to help farmers manage agricultural activities efficiently.  
+Digital platform to manage agricultural activities for farmers.  
 **Tech:** Java, JSP, MySQL
 
 ### 🎓 Campus Recruitment System
@@ -50,32 +50,23 @@ Android application enabling job postings and recruiter–student interaction.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jadhavadarsh27&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jadhavadarsh27&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavadarsh27&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/jadhavadarsh27?template=classic&theme=dark&config.timezone=Asia/Kolkata&base.header=0&base.community=0&plugin_languages=1&plugin_activity=1&plugin_streak=1" />
 </p>
 
 ---
 
-## 📈 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavadarsh27&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jadhavadarsh27&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-
----
-
-## 📫 Contact Me
+## 📫 Contact
 
 - 📧 Email: jadhavadarsh1527@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/adarsh-jadhav-0655582a7
