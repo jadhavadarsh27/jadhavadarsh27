@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi 👋 I'm Adarsh Jadhav
 
-<!--
-**jadhavadarsh27/jadhavadarsh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Software Developer  
+🎓 MCA Student | Java • Spring Boot • React  
 
-Here are some ideas to get you started:
+I build scalable, secure, and maintainable web applications using modern backend and frontend technologies. Passionate about problem-solving, clean code, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+**Languages:** Java, JavaScript (ES6+), SQL, HTML, CSS  
+**Backend:** Spring Boot, Hibernate, JSP, Servlets  
+**Frontend:** React.js, Angular  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Docker, Postman, Maven  
+
+---
+
+### 📂 Featured Projects
+- **Online Examination System** – Web app for online exams with admin & student modules  
+- **Online Agriculture System** – Platform for managing agricultural activities  
+- **Campus Recruitment System** – Android app for campus hiring  
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: jadhavadarsh1527@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/adarsh-jadhav-0655582a7  
+- 🌐 GitHub: https://github.com/jadhavadarsh27
