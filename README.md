@@ -60,10 +60,6 @@ Android application enabling job postings and recruiter–student interaction.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavadarsh27&layout=compact&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/jadhavadarsh27?template=classic&theme=dark&config.timezone=Asia/Kolkata&base.header=0&base.community=0&plugin_languages=1&plugin_activity=1&plugin_streak=1" />
-</p>
-
 ---
 
 ## 📫 Contact
