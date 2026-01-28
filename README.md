@@ -66,14 +66,12 @@ Android application enabling job postings and recruiter–student interaction.
 
 ---
 
-## 🏆 GitHub Trophies
+## 👀 Profile Views
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=jadhavadarsh27&theme=onedark&no-frame=true&row=1&column=6" 
-    alt="GitHub Trophies"
-  />
+  <img src="https://komarev.com/ghpvc/?username=jadhavadarsh27&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 
 ---
 
