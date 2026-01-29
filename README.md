@@ -13,7 +13,7 @@ Full Stack Software Developer | Java • Spring Boot • React
 
 ## 🚀 About Me
 
-- 🎓 MCA Student
+- 🎓 MCA Student 
 - 💻 Full Stack Developer focused on **Java & Spring Boot**
 - 🔧 Experience building **RESTful APIs and scalable web applications**
 - ⚡ Strong backend logic with clean frontend integration
@@ -29,7 +29,7 @@ Java, JavaScript (ES6+), SQL, HTML, CSS
 Spring Boot, Hibernate, React.js, Angular, Node.js, Docker, Git  
 
 **Databases:**  
-MySQL, MongoDB  
+MySQL, MongoDB, Firebase 
 
 ---
 
