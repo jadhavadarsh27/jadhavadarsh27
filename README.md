@@ -25,7 +25,6 @@ Full Stack Software Developer | Java • Spring Boot • React
 
 **Languages:**  
 Java, JavaScript (ES6+), SQL, HTML, CSS  
-
 **Frameworks & Tools:**  
 Spring Boot, Hibernate, React.js, Angular, Node.js, Docker, Git  
 
