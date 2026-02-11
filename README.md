@@ -24,6 +24,10 @@
   <a href="https://instagram.com/onlyy_ideal">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/jadhavadarsh3">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a>
 </p>
 
 ---
@@ -89,4 +93,5 @@ Android app for recruiter–student interaction
 
 📧 **Email:** jadhavadarsh1527@gmail.com  
 💼 **LinkedIn:** https://linkedin.com/in/adarsh-jadhav-0655582a7  
-📸 **Instagram:** https://instagram.com/onlyy_ideal
+📸 **Instagram:** https://instagram.com/onlyy_ideal  
+❌ **X (Twitter):** https://x.com/jadhavadarsh3
