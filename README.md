@@ -4,15 +4,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Developer;Java+%7C+Python+%7C+MERN+Stack;Spring+Boot+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications" />
 </p>
 
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/adarsh-jadhav-0655582a7">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="mailto:jadhavadarsh1527@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/jadhavadarsh27">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jadhavadarsh1527@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/onlyy_ideal">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
 </p>
 
@@ -59,7 +69,7 @@ Platform to manage agricultural activities
 Android app for recruiter–student interaction  
 **Tech:** Java, Android Studio, Firebase  
 
-> 🔹 Actively building **MERN & Python backend projects**
+> 🔹 Actively building **MERN Stack & Python backend projects**
 
 ---
 
@@ -79,3 +89,4 @@ Android app for recruiter–student interaction
 
 📧 **Email:** jadhavadarsh1527@gmail.com  
 💼 **LinkedIn:** https://linkedin.com/in/adarsh-jadhav-0655582a7  
+📸 **Instagram:** https://instagram.com/onlyy_ideal
