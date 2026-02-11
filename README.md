@@ -14,7 +14,7 @@ Full Stack Software Developer | Java • Spring Boot • React
 ## 🚀 About Me
 
 - 🎓 MCA Student 
-- 💻 Full Stack Developer focused on **Java & Spring Boot**
+- 💻 Full Stack Developer focused on **Java, Python & Spring Boot**
 - 🔧 Experience building **RESTful APIs and scalable web applications**
 - ⚡ Strong backend logic with clean frontend integration
 - 🌱 Currently improving **Spring Boot performance & React UI patterns**
