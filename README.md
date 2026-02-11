@@ -81,16 +81,12 @@ Android app for recruiter–student interaction
 
 ---
 
----
-
 ## 🌊 Thanks for Visiting
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Hope+you+enjoyed+my+work+👨‍💻;Let's+connect+and+build+something+awesome+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=120&section=footer"/>
 </p>
 
-<p align="center">
-  📧 <b>Email:</b> jadhavadarsh1527@gmail.com <br/>
-  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/adarsh-jadhav-0655582a7">adarsh-jadhav</a> <br/>
-  📸 <b>Instagram:</b> <a href="https://instagram.com/onlyy_ideal">@onlyy_ideal</a>
-</p>
+📧 **Email:** jadhavadarsh1527@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/adarsh-jadhav-0655582a7  
+📸 **Instagram:** https://instagram.com/onlyy_ideal
