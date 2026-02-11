@@ -1,12 +1,7 @@
-<h1 align="center">
-  Hi 👋, I'm Adarsh Jadhav
-</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Jadhav</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Java+%7C+Python+%7C+MERN+Stack;Spring+Boot+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Developer;Java+%7C+Python+%7C+MERN+Stack;Spring+Boot+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
@@ -26,68 +21,45 @@
 ## 🚀 About Me
 
 - 🎓 MCA Student  
-- 💻 **Full Stack Developer** focused on **Java, Python & MERN Stack**
-- 🐍 Python developer with backend & REST API experience
+- 💻 Full Stack Developer focused on **Java, Python & MERN Stack**
+- 🐍 Python backend & REST API enthusiast
 - ⚙️ MERN Stack developer building modern full-stack apps
-- 🔧 Strong in **Spring Boot, Node.js, Express.js**
-- 🌱 Currently improving **backend performance & frontend UI animations**
+- 🔧 Strong with **Spring Boot, Node.js & Express.js**
+- 🌱 Improving **performance, scalability & UI animations**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
 
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,angular" />
-</p>
+### ⚙️ Frameworks
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,angular" />
 
 ### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
 ### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 
 ---
 
 ## 📂 Projects
 
 ### 📝 Online Examination System
-🖥️ Web app for conducting online exams with admin & student modules  
-**Tech:** Java, JSP, MySQL, HTML, CSS  
+Web application for online exams with admin & student modules  
+**Tech:** Java, JSP, MySQL  
 
 ### 🌾 Online Agriculture System
-🌱 Digital platform for managing agricultural activities  
+Platform to manage agricultural activities  
 **Tech:** Java, JSP, MySQL  
 
 ### 🎓 Campus Recruitment System
-📱 Android app for recruiter–student interaction  
+Android app for recruiter–student interaction  
 **Tech:** Java, Android Studio, Firebase  
 
-> 🔹 Currently building **MERN Stack & Python REST API projects**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jadhavadarsh27&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavadarsh27&layout=compact&theme=tokyonight"
-    height="170"
-  />
-</p>
+> 🔹 Actively building **MERN & Python backend projects**
 
 ---
 
@@ -99,7 +71,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌊 Thanks for Visiting
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=120&section=footer"/>
