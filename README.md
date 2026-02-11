@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jadhav</h1>
 <h3 align="center">
-Full Stack Software Developer | Java • Spring Boot • React
+Full Stack Software Developer | Java • Python • MERN Stack • Spring Boot
 </h3>
 
 <p align="center">
@@ -13,23 +13,32 @@ Full Stack Software Developer | Java • Spring Boot • React
 
 ## 🚀 About Me
 
-- 🎓 MCA Student 
-- 💻 Full Stack Developer focused on **Java, Python & Spring Boot**
-- 🔧 Experience building **RESTful APIs and scalable web applications**
-- ⚡ Strong backend logic with clean frontend integration
-- 🌱 Currently improving **Spring Boot performance & React UI patterns**
+- 🎓 MCA Student  
+- 💻 Full Stack Software Developer with focus on **Java, Python & MERN Stack**
+- 🐍 Python developer experienced in **backend logic, scripting, and API development**
+- ⚙️ MERN Stack developer building **modern, responsive, full-stack web applications**
+- 🔧 Experience designing **RESTful APIs** using **Spring Boot, Node.js & Express**
+- ⚡ Strong backend problem-solving with clean and scalable frontend integration
+- 🌱 Currently improving **Spring Boot performance, Python backend patterns & MERN best practices**
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:**  
-Java, JavaScript (ES6+), SQL, HTML, CSS  
-**Frameworks & Tools:**  
-Spring Boot, Hibernate, React.js, Angular, Node.js, Docker, Git  
+Java, **Python**, JavaScript (ES6+), SQL, HTML, CSS  
+
+**Frontend:**  
+React.js, Angular, HTML5, CSS3, Bootstrap  
+
+**Backend:**  
+Spring Boot, Hibernate, **Node.js, Express.js**, Python (scripting & backend basics)  
 
 **Databases:**  
-MySQL, MongoDB, Firebase 
+MySQL, **MongoDB**, Firebase  
+
+**Tools & Platforms:**  
+Docker, Git, GitHub, Postman  
 
 ---
 
@@ -37,15 +46,17 @@ MySQL, MongoDB, Firebase
 
 ### 📝 Online Examination System
 Web application for conducting online exams with admin and student modules.  
-**Tech:** Java, JSP, MySQL, HTML, CSS
+**Tech:** Java, JSP, MySQL, HTML, CSS  
 
 ### 🌾 Online Agriculture System
 Digital platform to manage agricultural activities for farmers.  
-**Tech:** Java, JSP, MySQL
+**Tech:** Java, JSP, MySQL  
 
 ### 🎓 Campus Recruitment System
 Android application enabling job postings and recruiter–student interaction.  
-**Tech:** Java, Android Studio, Firebase
+**Tech:** Java, Android Studio, Firebase  
+
+> 🔹 Currently working on **MERN Stack and Python-based REST API projects** to build scalable and real-world applications.
 
 ---
 
@@ -64,4 +75,4 @@ Android application enabling job postings and recruiter–student interaction.
 ## 📫 Contact
 
 - 📧 Email: jadhavadarsh1527@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/adarsh-jadhav-0655582a7
+- 💼 LinkedIn: https://linkedin.com/in/adarsh-jadhav-0655582a7  
