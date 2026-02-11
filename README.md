@@ -80,9 +80,10 @@ Android application enabling job postings and recruiter–student interaction.
 
 ## 📊 GitHub Activity
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadhavadarsh27&show_icons=true&theme=github_dark&cache_seconds=86400)
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadhavadarsh27&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavadarsh27&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavadarsh27&layout=compact&theme=tokyonight)
+
 
 ---
 
