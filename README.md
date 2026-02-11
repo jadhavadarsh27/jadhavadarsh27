@@ -83,24 +83,14 @@ Android app for recruiter–student interaction
 
 ---
 
+## 🌊 Thanks for Visiting
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=800&color=9333EA&center=true&vCenter=true&width=700&lines=Hey!+You+made+it+to+the+end+🎉;Thanks+for+checking+out+my+GitHub+👨‍💻;Open+to+collaboration+and+learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Hope+you+enjoyed+my+work+👨‍💻;Let's+connect+and+build+something+awesome+🚀" />
 </p>
 
 <p align="center">
-  ✨✨✨
-</p>
-
-<p align="center">
-  <b>Let’s connect</b> 🤝
-</p>
-
-<p align="center">
-  📧 <a href="mailto:jadhavadarsh1527@gmail.com">Email</a> •
-  💼 <a href="https://linkedin.com/in/adarsh-jadhav-0655582a7">LinkedIn</a> •
-  📸 <a href="https://instagram.com/onlyy_ideal">Instagram</a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:38BDF8&height=110&section=footer"/>
+  📧 <b>Email:</b> jadhavadarsh1527@gmail.com <br/>
+  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/adarsh-jadhav-0655582a7">adarsh-jadhav</a> <br/>
+  📸 <b>Instagram:</b> <a href="https://instagram.com/onlyy_ideal">@onlyy_ideal</a>
 </p>
