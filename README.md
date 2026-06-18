@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 
 ### 🗄 Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
