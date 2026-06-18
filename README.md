@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jadhav</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer+%7C+🤖+UiPath+RPA;☕+Java+%7C+🐍+Python+%7C+⚛️+React;🌱+Spring+Boot+%7C+☁️+Cloud+%7C+⚙️+DevOps;Building+Scalable+Apps+and+Automation" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Developer;Java+%7C+Python+%7C+MERN+Stack;Spring+Boot+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications" /> </p>
 
 ---
 
