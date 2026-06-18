@@ -48,14 +48,20 @@
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
 
-### ⚙️ Frameworks
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,angular" />
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express" />
+
+### 🤖 RPA & Automation
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
 
 ### 🗄 Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,postman,git,github,docker" />
 
 ---
 
