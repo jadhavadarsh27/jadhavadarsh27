@@ -34,14 +34,21 @@
 
 ## 🚀 About Me
 
-🎓 MCA Student
-💻 Full Stack Developer specializing in Java, Python & MERN Stack
-🐍 Backend-focused Python developer with strong interest in REST APIs
-⚙️ MERN Stack developer building responsive and scalable full-stack applications
-🔧 Experienced with Spring Boot, Node.js & Express.js
-☁️ Exploring Cloud & DevOps (AWS, CI/CD, Docker, Kubernetes basics)
-🤖 Learning UiPath (RPA development) for automation solutions
-🌱 Continuously improving skills in performance optimization, scalability & UI animations
+- 🎓 MCA Student  
+
+- 💻 Full Stack Developer focused on **Java, Python & MERN Stack**
+
+- 🐍 Python backend & REST API enthusiast
+
+- ⚙️ MERN Stack developer building modern full-stack apps
+
+- 🔧 Strong with **Spring Boot, Node.js & Express.js**
+
+- ☁️ Exploring **Cloud & DevOps (AWS, Docker, CI/CD basics)**
+
+- 🤖 Learning **UiPath (RPA development & automation)**
+
+- 🌱 Improving **performance, scalability & UI animations**
 
 ---
 
