@@ -76,17 +76,33 @@
 
 ## 📂 Projects
 
-### 📝 Online Examination System
+#### 📝 Online Examination System
 Web application for online exams with admin & student modules  
 **Tech:** Java, JSP, MySQL  
 
-### 🌾 Online Agriculture System
+#### 🌾 Online Agriculture System
 Platform to manage agricultural activities  
 **Tech:** Java, JSP, MySQL  
 
-### 🎓 Campus Recruitment System
+#### 🎓 Campus Recruitment System
 Android app for recruiter–student interaction  
 **Tech:** Java, Android Studio, Firebase  
+
+#### 👨‍🎓 Student Management System
+Python-based application to manage student records, attendance, marks, and academic details  
+**Tech:** Python, Tkinter, SQLite/MySQL  
+
+#### 📚 Library Management System
+Application to manage books, issue/return records, and student library activities  
+**Tech:** Python, Tkinter, MySQL  
+
+#### ☁️ Cloud-Based File Storage System
+Cloud application for secure file upload, storage, and user access management  
+**Tech:** Python, Flask, AWS S3, AWS EC2, MySQL  
+
+#### ☁️ Cloud-Based Student Data Management System
+Web-based system for storing and managing student information using cloud services  
+**Tech:** Python, Flask, AWS RDS, AWS S3, MySQL  
 
 > 🔹 Actively building **MERN Stack & Python backend projects**
 
