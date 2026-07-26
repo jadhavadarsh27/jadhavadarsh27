@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Adarsh </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Developer;Java+%7C+Python+%7C+React;Spring+Boot+%7C+UiPath+RPA;Cloud+Computing+%7C+DevOps;Building+Scalable+Applications" alt="Typing SVG" />
