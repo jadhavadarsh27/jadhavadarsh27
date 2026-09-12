@@ -62,9 +62,6 @@
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
 
-### 🤖 RPA & Automation
-<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
-
 ---
 
 ## ☁️ Cloud & DevOps Projects
