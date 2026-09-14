@@ -35,7 +35,7 @@
 
 ## 🚀 About Me
 
-- 🎓 MCA Graduate — PES's MIBS, Nigdi, Pune (2023–2025)
+- 🎓 MCA Graduate — PES's MIBS, Nigdi, Pune
 - ☁️ Cloud & DevOps enthusiast with hands-on experience in **AWS, Linux administration, Docker, and CI/CD**
 - 🐍 Full Stack Developer — **Python (Django/Flask), Java (Spring Boot), MERN Stack**
 - 🔧 Comfortable with **Terraform (IaC), GitHub Actions, Jenkins basics, Kubernetes basics**
