@@ -40,7 +40,6 @@
 - 🐍 Full Stack Developer — **Python (Django/Flask), Java (Spring Boot), MERN Stack**
 - 🔧 Comfortable with **Terraform (IaC), GitHub Actions, Jenkins basics, Kubernetes basics**
 - 📡 Solid grounding in **networking** — VPC, Subnets, Security Groups, TCP/IP, DNS, HTTP/HTTPS
-- 🤖 Learning **UiPath (RPA development & automation)**
 - 🌱 Actively building and deploying **cloud-native applications** end-to-end — from infra to app to pipeline
 
 ---
