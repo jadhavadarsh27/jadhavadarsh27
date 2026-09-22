@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jadhav </h1>
-<h3 align="center">Cloud & DevOps Engineer | Full Stack Developer | AWS | Docker | Kubernetes</h3>
+<h3 align="center">Cloud & DevOps Engineer | Full Stack Developer | AWS | Docker | Kubernetes | CICD</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Full+Stack+Developer+(Java+%7C+Python+%7C+React);Spring+Boot+%7C+Django+%7C+UiPath+RPA;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
